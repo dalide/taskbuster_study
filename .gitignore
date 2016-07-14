@@ -1,4 +1,5 @@
 db.sqlite3
 __pycache__
 TaskBuster.sublime-workspace
-taskbuster/settings/__init__.pyc
+taskbuster/settings/__init__.pyc.coverage
+htmlcov
